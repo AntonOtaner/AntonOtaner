@@ -1,16 +1,30 @@
+[![Header for Anton Otaner](https://raw.githubusercontent.com/AntonOtaner/AntonOtaner/main/header.png)](https://otaner.dev)
+
 ### Hi there 👋
 
-<!--
-**AntonOtaner/AntonOtaner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer from Montreal, Canada passionate about desiging responsive interfaces and writting clean code. I'm confortable developing for the front end and the backend code. I've also worked with interesting technologies such as machine learning and blockchain.
 
-Here are some ideas to get you started:
+Working on it...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<!---
+
+### 💻 I'm currently working at
+* [Ericsson](https://www.ericsson.com/) on the [Maritime Mesh Network](https://www.ericsson.com/en/ericsson-one/maritime-mesh-network)
+* Otaner Tech on a financial web app
+
+### 📽 Some of my projects include
+* Chat App
+* Atomz
+* Tetris Artificial Intelligence
+* Mobile Games
+
+### 🤔 Some common FAQS
+* Why do you have no public repositories? 
+
+Almost all of the projects that I have done
+
+*
+
+### 👀 You can find me on
+
 -->
